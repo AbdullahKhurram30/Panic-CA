@@ -1,2 +1,1 @@
-"Learning Git" 
-wassup
+"Learning Git"
